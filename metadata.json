@@ -1,0 +1,6 @@
+{
+  "name": "MotorCare",
+  "description": "Modern motorcycle maintenance, service history, and expense tracking dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
